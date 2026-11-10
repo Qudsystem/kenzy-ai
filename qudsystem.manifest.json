@@ -1,0 +1,18 @@
+{
+  "name": "Kenzy AI — Generative Story Forge",
+  "slug": "kenzy-ai",
+  "vendor": "QudSystem",
+  "suite": "QudSystem Integrated Software Suite",
+  "category": "Creative AI & Media",
+  "upcomingBundle": "Qud Office AI",
+  "upcomingBadgeAr": "قريباً / قادم: حزمة Qud Office AI",
+  "adSlot": {
+    "enabledInFreeTier": true,
+    "adFreeInPaidTier": true,
+    "paidPlansStatus": "coming_soon",
+    "feedUrl": "https://cdn.jsdelivr.net/gh/Qudsystem/qudsystem-website@main/public/ads/qud-ad-slot.json",
+    "fallbackFeedUrl": "https://raw.githubusercontent.com/Qudsystem/qudsystem-website/main/public/ads/qud-ad-slot.json"
+  },
+  "repository": "https://github.com/Qudsystem/kenzy-ai",
+  "updatedAt": "2026-11-10T13:49:21.985Z"
+}
